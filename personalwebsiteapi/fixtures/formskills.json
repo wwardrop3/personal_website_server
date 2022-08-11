@@ -1,0 +1,18 @@
+[
+    {
+        "model": "personalwebsiteapi.formskillmodel",
+        "pk": 1,
+        "fields": {
+            "form": 1,
+            "skill": 1
+        }
+    },
+    {
+        "model": "personalwebsiteapi.formskillmodel",
+        "pk": 2,
+        "fields": {
+            "form": 1,
+            "skill": 2
+        }
+    }
+]

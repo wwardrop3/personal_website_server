@@ -1,0 +1,10 @@
+[
+    {
+        "model": "personalwebsiteapi.membermodel",
+        "pk": 1,
+        "fields": {
+            "user": 1,
+            "bio": "First Member"
+        }
+    }
+]

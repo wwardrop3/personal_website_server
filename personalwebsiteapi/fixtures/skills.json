@@ -1,0 +1,121 @@
+[
+    {
+        "model": "personalwebsiteapi.skillmodel",
+        "pk": 1,
+        "fields": {
+            "name": "python"
+        }
+    },
+    {
+        "model": "personalwebsiteapi.skillmodel",
+        "pk": 2,
+        "fields": {
+            "name": "javascript"
+        }
+    },
+    {
+        "model": "personalwebsiteapi.skillmodel",
+        "pk": 3,
+        "fields": {
+            "name": "react"
+        }
+    },
+    {
+        "model": "personalwebsiteapi.skillmodel",
+        "pk": 4,
+        "fields": {
+            "name": "django"
+        }
+    },
+    {
+        "model": "personalwebsiteapi.skillmodel",
+        "pk": 5,
+        "fields": {
+            "name": "orm"
+        }
+    },
+    {
+        "model": "personalwebsiteapi.skillmodel",
+        "pk": 6,
+        "fields": {
+            "name": "git"
+        }
+    },
+    {
+        "model": "personalwebsiteapi.skillmodel",
+        "pk": 7,
+        "fields": {
+            "name": "material_ui"
+        }
+    },
+    {
+        "model": "personalwebsiteapi.skillmodel",
+        "pk": 8,
+        "fields": {
+            "name": "arc_gis"
+        }
+    },
+    {
+        "model": "personalwebsiteapi.skillmodel",
+        "pk": 9,
+        "fields": {
+            "name": "google_earth"
+        }
+    },
+    {
+        "model": "personalwebsiteapi.skillmodel",
+        "pk": 10,
+        "fields": {
+            "name": "google_earth_studio"
+        }
+    },
+    {
+        "model": "personalwebsiteapi.skillmodel",
+        "pk": 11,
+        "fields": {
+            "name": "adobe_after_effects"
+        }
+    },
+    {
+        "model": "personalwebsiteapi.skillmodel",
+        "pk": 12,
+        "fields": {
+            "name": "xml"
+        }
+    },
+    {
+        "model": "personalwebsiteapi.skillmodel",
+        "pk": 13,
+        "fields": {
+            "name": "collada_modeling"
+        }
+    },
+    {
+        "model": "personalwebsiteapi.skillmodel",
+        "pk": 14,
+        "fields": {
+            "name": "sketchup"
+        }
+    },
+    {
+        "model": "personalwebsiteapi.skillmodel",
+        "pk": 15,
+        "fields": {
+            "name": "microsoft_excel"
+        }
+    },
+    {
+        "model": "personalwebsiteapi.skillmodel",
+        "pk": 16,
+        "fields": {
+            "name": "google_suite"
+        }
+    },
+    {
+        "model": "personalwebsiteapi.skillmodel",
+        "pk": 17,
+        "fields": {
+            "name": "microsoft_office"
+        }
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "model": "personalwebsiteapi.industrymodel",
+        "pk": 1,
+        "fields": {
+            "name": "Construction"
+        }
+    },
+    {
+        "model": "personalwebsiteapi.industrymodel",
+        "pk": 2,
+        "fields": {
+            "name": "Healthcare"
+        }
+    }
+]

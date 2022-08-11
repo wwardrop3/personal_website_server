@@ -1,0 +1,14 @@
+[
+    {
+        "model": "personalwebsiteapi.formmodel",
+        "pk": 1,
+        "fields": {
+            "first_name": "Will",
+            "last_name": "Billings",
+            "company": "Built",
+            "ok_to_contact": "True",
+            "hiring": "True",
+            "industry": 1
+        }
+    }
+]
